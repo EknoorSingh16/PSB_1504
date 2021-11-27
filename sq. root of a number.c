@@ -3,12 +3,12 @@
 
 int main()
 {
-	double num, sR;
+	double num, sr;
 	
 	printf("Enter any number of your choice: ");
 	scanf("%lf",&num);
 	
-	sR = sqrt(num);
+	sr = sqrt(num);
 	
 	printf("The square root of your number is: %.2lf",sR);
 	
